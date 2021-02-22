@@ -6,7 +6,7 @@
 
 A e-commerce back end
 
-![image](https://user-images.githubusercontent.com/70044796/107886081-d915f780-6eba-11eb-846b-3d42a8889100.png)
+![image]()
 ## Contents
 * [installing](#Installing)
 * [Usage](#Usage)
@@ -18,8 +18,7 @@ A e-commerce back end
 ## Installing
 * Download code
 * Navigate to root folder in your terminal
-* npm install express sequelize mysql2
-* Use mysql commands to initialize the database using the schema.sql file in the db directory
+* npm install 
 * npm run seed
 
 <br />
