@@ -4,9 +4,10 @@
 ## Description
 
 
-A e-commerce back end
+A CMS-style blog site. A full stack application using a SQL database and handlebars that follows the MVC paradigm for structure.
 
-![image]()
+![image](https://user-images.githubusercontent.com/70044796/108666421-4a920f00-7494-11eb-981b-394a2405c29e.png)
+
 ## Contents
 * [installing](#Installing)
 * [Usage](#Usage)
@@ -24,7 +25,7 @@ A e-commerce back end
 <br />
 
 ## Usage
-Click here to view demo: [Demo](https://drive.google.com/file/d/1jyqeHIDKZZZsbdQYmQJgTeOcPlovAeWo/view)
+Click here for the deployed application: [Tech Blog](https://drive.google.com/file/d/1jyqeHIDKZZZsbdQYmQJgTeOcPlovAeWo/view)
 - The user should run "npm start" to deploy the server
   - Insomnia core should be used for testing the api endpoints
 
