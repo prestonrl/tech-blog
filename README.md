@@ -25,7 +25,7 @@ A CMS-style blog site. A full stack application using a SQL database and handleb
 <br />
 
 ## Usage
-Click here for the deployed application: [Tech Blog](https://drive.google.com/file/d/1jyqeHIDKZZZsbdQYmQJgTeOcPlovAeWo/view)
+Click here for the deployed application: [Tech Blog](https://thawing-scrubland-77713.herokuapp.com/)
 - The user should run "npm start" to deploy the server
   - Insomnia core should be used for testing the api endpoints
 
